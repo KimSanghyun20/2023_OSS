@@ -1,22 +1,23 @@
-#3주차 git
+# 3주차 git   
 
-### 이미지
-
-
+## 이미지   
 
 
 
 
-###LMS 링크   
+
+
+## LMS 링크   
 [LMS](https://lms.kau.ac.kr/login.ph)   
 
-###Progit링크   
+## Progit링크   
 [Progit](https://git-scm.com/book/ko/v2)   
 
 
 
-###2주차 숙제   
-```bash 1 #!/bin/bash
+## 2주차 숙제   
+```bash
+ 1 #!/bin/bash
  2 Name="김상현"
  3 S_I="2020126012"
  4 F_P=$(find /home/kau2/ -name 'w2_homework.txt' 2>/dev/null)
