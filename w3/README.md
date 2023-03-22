@@ -1,4 +1,5 @@
 # 3주차 git   
+_____________________________________________
 
 ## 이미지   
 ![kau](https://raw.githubusercontent.com/nparkcourage/2023-kau-0504/main/w3/2023_OSS/img/kau/kau.png?token=GHSAT0AAAAAAB7WH52FN5AFESIFCC6HGPCSZA3AU5Q)
@@ -13,7 +14,14 @@
 ## Progit링크   
 [Progit](https://git-scm.com/book/ko/v2)   
 
-
+### 주요 git 명령어
+- add: 파일을 추적 대상으로 포함시킬 때, 또는 커밋 대상으로 포함시킬 때 사용 ex) git add   
+- commit   
+- branch   
+- merge    
+- status   
+- log ex) git log   
+______________________________________________
 
 ## 2주차 숙제   
 ```bash
