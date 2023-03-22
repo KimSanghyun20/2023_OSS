@@ -1,5 +1,41 @@
-# 2023_OSS
-## 2023 OSS 수업
+#3주차 git
+
+### 이미지
 
 
-[3주차강의](w3 "3주차 강의")
+
+
+
+
+###LMS 링크   
+[LMS](https://lms.kau.ac.kr/login.ph)   
+
+###Progit링크   
+[Progit](https://git-scm.com/book/ko/v2)   
+
+
+
+###2주차 숙제   
+```bash 1 #!/bin/bash
+ 2 Name="김상현"
+ 3 S_I="2020126012"
+ 4 F_P=$(find /home/kau2/ -name 'w2_homework.txt' 2>/dev/null)
+ 5 L_N=$(cat $F_P | wc -l)
+ 6 L_L=$(cat $F_P |tail -1)
+ 7
+ 8
+ 9 echo "__________"
+10 echo "name"
+11 echo "$Name"
+12 echo "__________"
+13 echo "student id"
+14 echo "$S_I"
+15 echo "__________"
+16 echo "file path"
+17 echo "$F_P"
+18 echo "__________"
+19 echo "line number"
+20 echo "$L_N"
+21 echo "__________"
+22 echo "last line"
+23 echo "$L_L```
