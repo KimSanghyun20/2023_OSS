@@ -1,7 +1,7 @@
 # 3주차 git   
 
 ## 이미지   
-
+![kau](https://raw.githubusercontent.com/nparkcourage/2023-kau-0504/main/w3/2023_OSS/img/kau/kau.png?token=GHSAT0AAAAAAB7WH52FN5AFESIFCC6HGPCSZA3AU5Q)
 
 
 
