@@ -2,7 +2,6 @@
 _____________________________________________
 
 ## 이미지   
-![kau](https://raw.githubusercontent.com/nparkcourage/2023-kau-0504/main/w3/2023_OSS/img/kau/kau.png?token=GHSAT0AAAAAAB7WH52EHHGNFF7HOGZDF5PYZA3CEIA)
 
 
 
