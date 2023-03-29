@@ -8,7 +8,7 @@ _____________________________________________
 
 
 ## LMS 링크   
-[LMS](https://lms.kau.ac.kr/login.ph)   
+[LMS](https://lms.kau.ac.kr/login.php)   
 
 ## Progit링크   
 [Progit](https://git-scm.com/book/ko/v2)   
